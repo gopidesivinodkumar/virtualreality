@@ -1,0 +1,168 @@
+ 
+.navbar-logo {
+    height: 50px;
+    width: 60px;
+    margin: 10px;
+} 
+
+#nav-items-color {
+    color: #0d0d0e;
+    font-family: "Roboto";
+    float: right;
+}
+
+.bgimagebannersection {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.nav-link{
+    text-decoration: none;
+   
+}
+.navbar{
+    float: left;
+}
+
+.headingbannersection {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.navlink{
+    text-decoration: none;
+}
+
+.buttonbannersection {
+    background-color: #1a2137;
+    border-radius: 8px;
+    color: white;
+    font-family: "Roboto";
+    height: 40px;
+    width: 20vh;
+}
+
+.VR-Features-Section {
+    background-color: white;
+}
+
+.heading-Features-Section {
+    margin-top: 40px;
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.VR-card {
+    background-color: white;
+    border-radius: 16px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.image-vr-card {
+    height: 90px;
+    width: 89px;
+}
+
+.heading-vr-card {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #1f2933;
+}
+
+.paragraph-vr-card {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.span-interaction {
+    font-style: italic;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.VR-kit-section {
+    background-color: white;
+    padding: 10px;
+}
+
+.mainheading-kit-section {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image-kit-section {
+    border-radius: 16px;
+    width: 290px;
+    height: 304px;
+}
+
+.heading-kit-section {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+    font-weight: bold;
+}
+
+.center-kit-item {
+    text-align: center;
+}
+
+.kit-item {
+    color: brown;
+}
+
+.trending-blogs-section-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.trending-blogs-card-title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.trending-blogs-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.trending-blogs-card-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.trending-blogs-card-button {
+    color: white;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 175px;
+    height: 56px;
+    border-width: 0;
+    border-radius: 10px;
+}
